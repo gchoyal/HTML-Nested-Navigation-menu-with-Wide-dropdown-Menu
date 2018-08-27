@@ -1,0 +1,118 @@
+
+@charset "utf-8";
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,900italic,900,700italic,400italic,700,300italic,300,100italic,100&subset=latin,latin-ext);
+
+body{
+	font-family: 'Lato', sans-serif;
+	background:#fff;
+	font-weight:600;
+	color:#999;
+}
+a:focus{
+	outline:none;
+}
+.container{
+	max-width:1170px;
+}
+h1{font-size:30px;
+}
+h2{
+	font-size:26px;
+}
+h3{
+	font-size:20px;
+}
+h4{
+	font-size:18px;
+}
+
+input{
+	margin:10px 0;
+}
+.navbar-brand{
+	padding:0px;
+}
+/*---------------------Header---------------------*/
+
+
+
+
+
+
+
+/*---------------------Header-Nav-CSS-------------------*/
+
+
+
+
+
+
+
+
+
+/*---------------------Slider-CSS--------------------*/
+
+
+
+
+
+
+
+
+
+
+/*---------------------Middle-Contain--------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------Footer---------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------media------------------------------------*/
+@media (min-width:991px) and (max-width: 1200px) {
+}
+@media (min-width:767px) and (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 500px) {
+}
+@media (max-width: 360px) {
+}
+
+
+
+
+
+
+
+
+
+
